@@ -11,3 +11,5 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+.list{
+border : round 2px}
